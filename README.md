@@ -1,1 +1,12 @@
 # linuk-commands
+- pwm
+- ls
+- cd path
+- cd ../
+- mkdar foldername
+- rmdir foldername
+- rm filename
+- touch filename
+- cat fileNAME
+- python file
+- clear
